@@ -1,0 +1,11 @@
+{
+  "name": "alruba",
+  "version": "1.0.0",
+  "description": "This project is related with aiolos its the smart contract that aiolos its connected.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bujosa",
+  "license": "ISC"
+}
